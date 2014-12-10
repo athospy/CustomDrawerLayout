@@ -1,7 +1,7 @@
 CustomDrawerLayout
 ==================
 
-An android Navigation Drawer Layout that delegate gestures to your activity instead off eating it compleatly.
+An android Navigation Drawer Layout that delegate gestures to your activity instead of eating it completely.
 
 
 
