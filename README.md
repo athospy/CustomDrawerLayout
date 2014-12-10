@@ -11,20 +11,23 @@ Usage
 
 XML
 ----
-
-<py.com.mambo.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+```html
+ <py.com.mambo.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     
-    
-</py.com.mambo.CustomDrawerLayout>
+ </py.com.mambo.CustomDrawerLayout>
+```
 
 
 
 
-in activity
+
+
+activity
 -----------
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +37,7 @@ in activity
         
         
     }
+
         
         
         
